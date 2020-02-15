@@ -8,7 +8,7 @@
     "react-scripts": "2.1.1",
     "truffle-contract": "^4.0.31",
     "web3": "^1.0.0-beta.37",
-    "yarn": "^1.17.3"
+    "yarn": "^1.22.0"
   },
   "scripts": {
     "start": "react-scripts start",
